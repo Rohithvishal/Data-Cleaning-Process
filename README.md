@@ -55,5 +55,7 @@ STEP 6: Use zscore of to remove outliers
 ![image](https://github.com/user-attachments/assets/b9cae4ab-f742-40f2-97b5-fc4093863ab3)
 ![image](https://github.com/user-attachments/assets/ad1af881-53a2-4ea7-ba1e-5f3459a241b8)
 ![image](https://github.com/user-attachments/assets/84bf4d63-a73b-45f4-b4b4-b494ef36deaa)
+![image](https://github.com/user-attachments/assets/1d3b09be-192c-4017-ae49-93169685d99c)
+
 # Result
 Thus the given data is read and data cleaning is performed.
