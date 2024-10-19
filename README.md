@@ -21,7 +21,6 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            ![image](https://github.com/user-attachments/assets/3d124867-de8e-4b8a-a815-2f66a79247a4)
 ![image](https://github.com/user-attachments/assets/aae3ff63-3de4-4541-a612-fc51afeb72ea)
 ![image](https://github.com/user-attachments/assets/33b72fad-6d9b-4c63-937c-352598ba135d)
 ![image](https://github.com/user-attachments/assets/a829112a-20ea-4e32-ae2f-d3e2bb77b67c)
@@ -56,8 +55,5 @@ STEP 6: Use zscore of to remove outliers
 ![image](https://github.com/user-attachments/assets/b9cae4ab-f742-40f2-97b5-fc4093863ab3)
 ![image](https://github.com/user-attachments/assets/ad1af881-53a2-4ea7-ba1e-5f3459a241b8)
 ![image](https://github.com/user-attachments/assets/84bf4d63-a73b-45f4-b4b4-b494ef36deaa)
-![image](https://github.com/user-attachments/assets/cf3d7f84-fd22-4278-8901-77639e09ccc7)
-
 # Result
-Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score
- method
+Thus the given data is read and data cleaning is performed.
